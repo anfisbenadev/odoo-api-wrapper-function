@@ -1,0 +1,6 @@
+name: prd
+variables:
+  - secret: true
+    name: code
+  - secret: true
+    name: base_url
